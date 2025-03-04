@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/core/config/firebase.ts","./src/core/config/supabase.ts","./src/shared/providers/authprovider.tsx"],"version":"5.7.3"}
