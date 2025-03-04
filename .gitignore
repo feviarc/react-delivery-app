@@ -1,9 +1,11 @@
 node_modules
+dist
 .env
 .env.local
 .firebase
 .supabase
 .DS_Store
-dist
 .cache
 .vscode
+firebase-debug.log
+firestore-debug.log
