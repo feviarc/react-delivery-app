@@ -7,13 +7,7 @@
 // }
 
 {
-  "compilerOptions": {
-    "baseUrl": "src",
-    "paths": {
-      "@core/*": ["core/*"],
-      "@shared/*": ["shared/*"]
-    }
-  },
+  "compilerOptions": {},
   "include": ["src"],
   "references": [
     { "path": "./tsconfig.app.json" },
